@@ -23,9 +23,8 @@ export const androidStyle = StyleSheet.create({
     marginVertical: 16,
   },
   content: {
-    width: '98%',
+    width: '100%',
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    paddingHorizontal: 16,
   },
 });
