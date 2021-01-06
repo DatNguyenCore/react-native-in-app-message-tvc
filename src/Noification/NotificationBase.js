@@ -1,7 +1,8 @@
 import React from 'react';
 import { Animated, Text, Easing, Platform, StatusBar } from 'react-native';
 import { IOStyle } from './iOStyle';
-import { TapticFeedback } from '../../index';
+import { TapticFeedback } from '../RNInAppMessage/TapticFeedbackNativeModule'
+
 
 const animatedDuration = 350;
 const minVelocityToFling = -150;
