@@ -31,7 +31,7 @@ export const IOStyle = StyleSheet.create({
 		justifyContent: 'center',
 	},
 	text: {
-		fontSize: 16,
+		fontSize: 14,
 		marginTop: 16,
 		marginBottom: 6,
 		marginHorizontal: 10
