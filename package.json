@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-in-app-message",
+  "_id": "react-native-in-app-message@1.0.32",
+  "_inBundle": false,
+  "_integrity": "sha512-azlPYZka0kNtJwvtxFTNHeggXuT72UBDcGooJyiVBX/cKx88tv47Wct5/VgLnO1jOIpcxhICR/ZLVnsN/jWioA==",
+  "_location": "/react-native-in-app-message",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-in-app-message",
+    "name": "react-native-in-app-message",
+    "escapedName": "react-native-in-app-message",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-in-app-message/-/react-native-in-app-message-1.0.32.tgz",
+  "_shasum": "58c6e5ef19b6666d326803a3592b39528ff9a703",
+  "_spec": "react-native-in-app-message",
+  "_where": "/Users/nguyendat/Desktop/main/Histaff2017_Mobile",
+  "author": {
+    "name": "Kirill Gudkov"
+  },
+  "bugs": {
+    "url": "https://github.com/KirillGudkov/react-native-in-app-message/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native in-app native-like notifications.",
+  "devDependencies": {},
+  "files": [
+    "src",
+    "index.d.ts",
+    "react-native-in-app-message.podspec"
+  ],
+  "homepage": "https://github.com/KirillGudkov/react-native-in-app-message#readme",
+  "keywords": [
+    "react-native",
+    "ui",
+    "in-app notifications",
+    "noificaions",
+    "in-app",
+    "popup"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-in-app-message",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirillGudkov/react-native-in-app-message.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "version": "1.0.32"
+}
